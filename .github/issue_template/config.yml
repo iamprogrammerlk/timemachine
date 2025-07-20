@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Contact Project Owner
+    url: https://iamprogrammer.lk/contact
+    about: Programming is like sex, I can't make a mistake.
+  - name: Donate
+    url: https://github.com/sponsors/iamprogrammerlk
+    about: Please support the project by donating a cup of coffee.

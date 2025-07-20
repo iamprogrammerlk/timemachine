@@ -1,0 +1,15 @@
+{
+  "markdown.validate.ignoredLinks": [
+    "#readme-top",
+    "/contributor_license_agreement.md",
+    "/../../discussions",
+    "/../../security/advisories/new",
+    "/../../graphs/contributors",
+    "/../../issues",
+    "../blob/main/code_of_conduct.md",
+    "../blob/main/contributing.md",
+    "../blob/main/security.md",
+    "../blob/main/contributor_license_agreement.md",
+    "../blob/main/license.md"
+  ]
+}
