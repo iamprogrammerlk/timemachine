@@ -93,7 +93,7 @@ the [Contributor License Agreement](/contributor_license_agreement.md).
 
 # ⚖️ License
 
-### This work is distributed under the [Do What The F\*ck You Want To Public License (WTFPL)](choosealicense) License.
+### This work is distributed under the [Do What The F\*ck You Want To Public License (WTFPL)](https://choosealicense.com/licenses/wtfpl/) License.
 
 See [license](/license.md) for more information.
 
@@ -133,5 +133,3 @@ See [license](/license.md) for more information.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ---
-
-[choosealicense]: https://choosealicense.com/licenses/wtfpl/
