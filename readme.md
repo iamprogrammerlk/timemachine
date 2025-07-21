@@ -1,5 +1,9 @@
 <a name="readme-top"></a>
 
+> [!NOTE] This repository is intended to be used for educational purposes only.
+
+> [!WARNING] DISCLAIMER: Using this method on active projects may break the Git versioning system, resulting in chaos.
+
 <br><br>
 
 <div align="center" style="text-align: center;">
@@ -50,6 +54,8 @@ GIT_AUTHOR_DATE='1987-10-24 1:00:00 +0530' GIT_COMMITTER_DATE='1987-10-24 1:00:0
 
 git push
 ```
+
+> [!WARNING] The second command must be in a single line, breaking it won't work as intended.
 
 <br>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
