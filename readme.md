@@ -6,7 +6,11 @@
 
 > [!WARNING]
 >
-> DISCLAIMER: Using this method on active projects may break the Git versioning system, resulting in chaos.
+> Using this method on active projects may break the Git versioning system, resulting in chaos.
+>
+> For example, someone created a new file yesterday, but you may have edited it 7 years ago.
+>
+> That is an impractical scenario in a perfect world.
 
 <br><br>
 
