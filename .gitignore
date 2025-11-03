@@ -1,7 +1,7 @@
 # Custom ---------------------------------------------------------------------------------------------------------------
 
 ## All private resources files
-.private/
+# .private/
 .work_in_progress/
 .temporary/
 

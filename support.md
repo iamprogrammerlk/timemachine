@@ -1,6 +1,6 @@
 # 💬 Need help?
 
-## 👉 Check our [documentation][document], [community forum][community] or [Github issues page][issues] first!
+## 👉 Check our [documentation][documentation], [community forum][community] or [Github issues page][issues] first!
 
 If a solution isn't already available, please go to our [community forum][community]
 and create a new post detailing your issue.
@@ -47,25 +47,24 @@ If your issue isn't getting attention:
 
 # 📝 Documentation
 
-- 📚 Official Documentation: [Our Documentation][document]
+- 📚 Official Documentation: [Our Documentation][documentation]
 
 - 🎬 Tutorials & Guides: [Our Tutorials Page][youtube]
 
-- 📖 API Reference: [API Documents][api_document]
+- 📖 API Reference: [API Documentation][api_documentation]
 
 # 📚 Learning Materials
 
 - 🎥 Video Tutorials: [YouTube Channel][youtube]
 
-- 💡 Examples & Demos: [Examples][document]
+- 💡 Examples & Demos: [Examples][documentation]
 
-- 🚀 Getting Started Guide: [Quickstart][document]
+- 🚀 Getting Started Guide: [Quickstart][documentation]
 
-[document]: https://iamprogrammer.lk
+[documentation]: https://iamprogrammer.lk
+[api_documentation]: https://iamprogrammer.lk
 [community]: https://reddit.com/r/iamprogrammerlk
 [issues]: /../../issues
 [contributors]: /../../graphs/contributors
 [support_email]: mailto:support@iamprogrammer.lk
 [youtube]: https://youtube.com/iamprogrammerlk
-[api_document]: https://iamprogrammer.lk
-

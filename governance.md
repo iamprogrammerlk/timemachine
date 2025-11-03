@@ -23,9 +23,9 @@ I retain final decision-making authority to ensure project coherence and quality
 ### Contribution Process
 
 1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
-3. Make your changes with clear commit messages (`git commit -m "Add some AmazingFeature"`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
+2. Create a feature branch (`git checkout -b feature/amazing_feature`)
+3. Make your changes with clear commit messages (`git commit -m "Add some amazing_feature"`)
+4. Push to the Branch (`git push origin feature/amazing_feature`)
 5. Submit a pull request with description of changes
 6. I'll review and provide feedback within 1 week
 

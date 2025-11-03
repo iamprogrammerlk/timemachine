@@ -1,6 +1,6 @@
 {
   "markdown.validate.ignoredLinks": [
-    "#readme-top",
+    "#page_top",
     "/contributor_license_agreement.md",
     "/../../discussions",
     "/../../security/advisories/new",
