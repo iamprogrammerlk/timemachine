@@ -4,9 +4,9 @@
 
 - version: 1.0.0
 
-- release_date: 2025-10-15
+- release_date: 2025-10-24
 
-- last_update: 2025-10-15
+- last_update: 2025-10-24
 
 > [!CAUTION]
 >
@@ -42,6 +42,10 @@ copyright and patent licenses thereto.
   the rights granted to the project owner(s) in this paragraph, You reserve all rights, title, and interest in and to
   your contributions.
 
+- You (the "Contributor") agree that this code may be [licensed][license] under any license deemed appropriate by this
+  project owners, including, but not limited to, open source, closed source, proprietary, or custom licenses, and that
+  such [license terms][license] neither violate your rights nor your copyright ownership to this code.
+
 - You (the "Contributor") represent that you are legally entitled to grant the above license. If your employer(s) have
   rights to intellectual property that you create, you represent that you have received permission to make the
   contributions on behalf of that employer, or that your employer has waived such rights for your contributions to this
@@ -62,7 +66,7 @@ copyright and patent licenses thereto.
   non-infringement.
 
 - Project owner(s) agree your contributions will apply only to this project (including all the repositories run by this
-  project) and your contributions will not be individually separated, shared, relicensed, or sold outside of this
-  project.
+  project) and your contributions will not be individually separated, shared, or sold outside of this project.
 
 [git_tools]: https://git-scm.com/book/en/v2/Git-Tools-Signing-Your-Work
+[license]: /license.md

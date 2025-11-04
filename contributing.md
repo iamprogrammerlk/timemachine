@@ -37,7 +37,7 @@ If you have technical or coding experience, you can assist by:
 
 If you need assistance with submitting your code contributions, the [Reddit.com Community][community]
 is a good place to begin.
-You can also contact the project developers and the community through our [Reddit.com Community][community]forum.
+You can also contact the project developers and the community through our [Reddit.com Community][community] forum.
 
 ## 🚩 General Rules For Contributing
 
@@ -129,8 +129,8 @@ out of the new terms, please contact any member of the leadership team.
 You can view our list of [Contributors][contributors].
 
 [issues]: /../../issues
-[community]: https://reddit.com/r/iamprogrammerlk
 [license]: /license.md
 [changelog]: /changelog.md
 [contributor_license_agreement]: /contributor_license_agreement.md
 [contributors]: /../../graphs/contributors
+[community]: https://reddit.com/r/iamprogrammerlk

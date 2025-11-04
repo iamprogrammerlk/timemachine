@@ -50,7 +50,7 @@ While I have final say, I value community input:
 
 - **Primary**: GitHub Issues and Pull Requests
 - **General Discussion**: [Reddit.com Community][community]
-- **Direct Contact**: [email][iamprogrammer_email] for security issues or private matters
+- **Direct Contact**: [email][support_email] for security issues or private matters
 
 ## ⏳ Response Times
 
@@ -74,7 +74,8 @@ _This governance document may evolve as the project grows. Major changes will be
 [iamprogrammer_url]: https://iamprogrammer.lk
 [iamprogrammer_email]: mailto:contact@iamprogrammer.lk
 [issues]: /../../issues
-[community]: https://reddit.com/r/iamprogrammerlk
 [contributing]: /contributing.md
 [code_of_conduct]: /code_of_conduct.md
 [contributor_license_agreement]: /contributor_license_agreement.md
+[community]: https://reddit.com/r/iamprogrammerlk
+[support_email]: mailto:support@iamprogrammer.lk

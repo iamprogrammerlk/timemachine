@@ -61,10 +61,10 @@ If your issue isn't getting attention:
 
 - 🚀 Getting Started Guide: [Quickstart][documentation]
 
-[documentation]: https://iamprogrammer.lk
-[api_documentation]: https://iamprogrammer.lk
-[community]: https://reddit.com/r/iamprogrammerlk
 [issues]: /../../issues
 [contributors]: /../../graphs/contributors
+[documentation]: https://iamprogrammer.lk/timemachine
+[api_documentation]: https://iamprogrammer.lk/timemachine
+[community]: https://reddit.com/r/iamprogrammerlk
 [support_email]: mailto:support@iamprogrammer.lk
-[youtube]: https://youtube.com/iamprogrammerlk
+[youtube]: https://youtube.com/@iamprogrammerlk
