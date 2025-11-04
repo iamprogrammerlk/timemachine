@@ -5,7 +5,7 @@
 
 <div align="center" style="text-align: center;">
   <a href="https://iamprogrammer.lk">
-    <img src="https://avatars.githubusercontent.com/u/17584831?v=4" alt="iamprogrammer.lk" width="200">
+    <img src="resource/cover_3840x2160.png" alt="iamprogrammer.lk" width="100%">
   </a>
 </div>
 
@@ -15,12 +15,6 @@
 # Time Machine
 
 My very own GIT time machine.
-
-> [!TIP]
->
-> ## ⭐ Star This Repository
->
-> If you enjoy this project and my work, please consider supporting me by giving a ⭐ star ⭐ to this repository.
 
 > [!NOTE]
 >
@@ -33,6 +27,27 @@ My very own GIT time machine.
 > For example, someone created a new file yesterday, but you may have edited it 7 years ago today!.
 >
 > That is an impractical scenario in a perfect world.
+
+<br>
+<br>
+
+<p align="right">(<a href="#page_top">👆 BACK TO TOP 👆</a>)</p>
+
+---
+
+# 📝 Documentation
+
+### 📚 Official Documentation: [Our Documentation][documentation]
+
+### 🚀 Getting Started Guide: [Quickstart][documentation]
+
+### 💡 Examples & Demos: [Examples][documentation]
+
+### 🎬 Tutorials & Guides: [Our Tutorials Page][youtube]
+
+### 🎥 Video Tutorials: [YouTube Channel][youtube]
+
+### 📖 API Reference: [API Documentation][api_documentation]
 
 <br>
 <br>
@@ -65,22 +80,6 @@ git push
 > [!WARNING]
 >
 > The second command must be on a single line, breaking it won't work as intended.
-
-<br>
-<br>
-
-<p align="right">(<a href="#page_top">👆 BACK TO TOP 👆</a>)</p>
-
----
-
-# 💕 Credits
-
-- I am Programmer [@iamprogrammerlk][iamprogrammer_github]
-
-  - 🌐 [iamprogrammer.lk][iamprogrammer_url]
-  - ✉️ [contact@iamprogrammer.lk][iamprogrammer_email]
-
-- [Contributors][contributors]
 
 <br>
 <br>
@@ -191,6 +190,22 @@ See [license][license_md] for more information.
 
 ---
 
+# 💕 Credits
+
+- I am Programmer [@iamprogrammerlk][iamprogrammer_github]
+
+  - 🌐 [iamprogrammer.lk][iamprogrammer_url]
+  - ✉️ [contact@iamprogrammer.lk][iamprogrammer_email]
+
+- [Contributors][contributors]
+
+<br>
+<br>
+
+<p align="right">(<a href="#page_top">👆 BACK TO TOP 👆</a>)</p>
+
+---
+
 # ©️ Copyright
 
 - Copyright © 2025 🇱🇰 I am Programmer [@iamprogrammerlk][iamprogrammer_github].
@@ -207,7 +222,6 @@ See [license][license_md] for more information.
 [iamprogrammer_url]: https://iamprogrammer.lk
 [iamprogrammer_email]: mailto:contact@iamprogrammer.lk
 [contributors]: /../../graphs/contributors
-[community]: https://reddit.com/r/iamprogrammerlk
 [contributing]: /contributing.md
 [governance]: /governance.md
 [support]: /support.md
@@ -215,6 +229,10 @@ See [license][license_md] for more information.
 [code_of_conduct]: /code_of_conduct.md
 [security]: /security.md
 [contributor_license_agreement]: /contributor_license_agreement.md
-[license]: https://choosealicense.com/licenses/wtfpl/
+[license]: https://creativecommons.org/licenses/by/4.0/
 [license_md]: /license.md
 [security_advisories]: /../../security/advisories/new
+[community]: https://reddit.com/r/iamprogrammerlk
+[documentation]: https://iamprogrammer.lk/timemachine
+[api_documentation]: https://iamprogrammer.lk/timemachine
+[youtube]: https://youtube.com/@iamprogrammerlk
