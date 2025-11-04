@@ -71,15 +71,15 @@ GIT_AUTHOR_DATE='1987-10-24 7:37:00 +0530' GIT_COMMITTER_DATE='1987-10-24 7:37:0
 
 ```
 
+> [!WARNING]
+>
+> The command must be on a single line, breaking it won't work as intended.
+
 - Push new changes to the remote
 
 ```
 git push
 ```
-
-> [!WARNING]
->
-> The second command must be on a single line, breaking it won't work as intended.
 
 <br>
 <br>
